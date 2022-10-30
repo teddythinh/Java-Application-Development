@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89fcff51-7411-4f43-b890-a2ffb79ad990" name="Changes" comment="Add something in OOP">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/Help.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week1/Help.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/InfoWithCLArguments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week1/InfoWithCLArguments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/OOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/OOP.java" afterDir="false" />
+    <list default="true" id="89fcff51-7411-4f43-b890-a2ffb79ad990" name="Changes" comment="Update gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +29,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
@@ -62,7 +59,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667146091552</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Change the file">
+      <created>1667146312124</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667146312124</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update gitignore">
+      <created>1667146337702</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667146337702</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,6 +90,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add folder &quot;out&quot;" />
     <MESSAGE value="Add something in OOP" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add something in OOP" />
+    <MESSAGE value="Change the file" />
+    <MESSAGE value="Update gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update gitignore" />
   </component>
 </project>
