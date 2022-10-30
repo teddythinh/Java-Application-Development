@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89fcff51-7411-4f43-b890-a2ffb79ad990" name="Changes" comment="Add folder &quot;out&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="89fcff51-7411-4f43-b890-a2ffb79ad990" name="Changes" comment="Add something in OOP">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week1/Help.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week1/Help.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week1/InfoWithCLArguments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week1/InfoWithCLArguments.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Week3/OOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/OOP.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +35,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
@@ -52,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667138316974</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add something in OOP">
+      <created>1667146091552</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667146091552</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,6 +78,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add folder &quot;out&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add folder &quot;out&quot;" />
+    <MESSAGE value="Add something in OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add something in OOP" />
   </component>
 </project>
