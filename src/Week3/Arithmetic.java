@@ -79,7 +79,6 @@ class OpNode {
                 return 0;
         }
     }
-
 }
 
 class Arithmetic {

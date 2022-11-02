@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89fcff51-7411-4f43-b890-a2ffb79ad990" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week3/Operator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week3/Arithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/Arithmetic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667146899367</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add homework for week 3">
+      <created>1667379756379</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667379756379</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +135,7 @@
     <MESSAGE value="Change the file" />
     <MESSAGE value="Update gitignore" />
     <MESSAGE value="Revert commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert commit" />
+    <MESSAGE value="Add homework for week 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add homework for week 3" />
   </component>
 </project>
