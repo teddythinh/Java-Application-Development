@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89fcff51-7411-4f43-b890-a2ffb79ad990" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GUI/CelsiusConverterGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/HelloWorldSwing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week5/InputAndOutputFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week5/InputFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week5/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week5/output1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-application-development-course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-application-development-course.iml" afterDir="false" />
     </list>
@@ -36,19 +39,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
@@ -134,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667383418046</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add 2 examples for GUI in Java">
+      <created>1668747184498</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668747184498</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +173,7 @@
     <MESSAGE value="Add homework for week 3" />
     <MESSAGE value="Change something" />
     <MESSAGE value="Add Diagram.png" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Diagram.png" />
+    <MESSAGE value="Add 2 examples for GUI in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 2 examples for GUI in Java" />
   </component>
 </project>
