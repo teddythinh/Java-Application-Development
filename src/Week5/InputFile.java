@@ -1,4 +1,6 @@
-import java.io.*;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
 
 public class InputFile {
     public static void main(String[] args) {
@@ -11,18 +13,15 @@ public class InputFile {
                 if (i != -1) System.out.println((char) i);
             }
             while (i != -1);
-        }
-        catch(FileNotFoundException ex) {
+        } catch (FileNotFoundException ex) {
             System.out.println(ex.getMessage());
-        }
-        catch(IOException ex) {
+        } catch (IOException ex) {
             System.out.println(ex.getMessage());
-        }
-        finally {
-            if(fin != null) {
+        } finally {
+            if (fin != null) {
                 try {
                     fin.close();
-                } catch(IOException ex) {
+                } catch (IOException ex) {
                     System.out.println(ex.getMessage());
                 }
             }

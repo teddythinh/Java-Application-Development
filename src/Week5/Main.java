@@ -1,4 +1,4 @@
-import java.io.*;
+import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) {
@@ -6,7 +6,7 @@ public class Main {
             byte data[] = new byte[10];
             System.out.print("Enter something: ");
             System.in.read(data);
-            for(int i = 0; i < data.length; i++) {
+            for (int i = 0; i < data.length; i++) {
                 System.out.println(data[i]);
             }
         } catch (IOException ex) {
