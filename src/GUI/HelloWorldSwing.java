@@ -1,6 +1,7 @@
 /*
  * HelloWorldSwing.java requires no other files.
  */
+
 import javax.swing.*;
 
 public class HelloWorldSwing {

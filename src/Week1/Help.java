@@ -1,11 +1,11 @@
 public class Help {
-    public static void main(String[] args) throws java.io.IOException{
-            System.out.println("Help on: ");
-            System.out.println("    1. if");
-            System.out.println("    2. switch");
-            System.out.print("Choose one: ");
-            int input = System.in.read();
-        switch(input) {
+    public static void main(String[] args) throws java.io.IOException {
+        System.out.println("Help on: ");
+        System.out.println("    1. if");
+        System.out.println("    2. switch");
+        System.out.print("Choose one: ");
+        int input = System.in.read();
+        switch (input) {
             case 1:
                 System.out.println("The if:");
                 System.out.println("    if(condition) statement");

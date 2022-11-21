@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Info {
-    public static void main(String []args) {
+    public static void main(String[] args) {
         String firstName, lastName, dob;
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter your first name: ");

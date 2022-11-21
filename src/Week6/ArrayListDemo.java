@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class ArrayListDemo {
-    public static void main(String []args) {
+    public static void main(String[] args) {
         ArrayList<Integer> list1 = new ArrayList<>();
         list1.add(10);
         list1.add(20);
@@ -11,7 +11,7 @@ public class ArrayListDemo {
             System.out.println(list1.get(i));
         }
 
-        for(Integer x: list1) {
+        for (Integer x : list1) {
             System.out.println(x);
         }
 

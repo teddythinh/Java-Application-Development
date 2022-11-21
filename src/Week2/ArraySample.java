@@ -27,12 +27,12 @@ public class ArraySample {
         int n2 = 4;
         int[][] ire = new int[n2][];
 
-        for(int i = 0; i < n2; i++) {
+        for (int i = 0; i < n2; i++) {
             ire[i] = new int[i + 1];
         }
 
-        for(int i = 0; i < ire.length; i++) {
-            for(int j = 0; j < ire[i].length; j++){
+        for (int i = 0; i < ire.length; i++) {
+            for (int j = 0; j < ire[i].length; j++) {
                 System.out.print(ire[i][j] + " ");
             }
             System.out.println();
