@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/Week8+/Resource/Resource.iml" filepath="$PROJECT_DIR$/src/Week8+/Resource/Resource.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-application-development-course.iml" filepath="$PROJECT_DIR$/java-application-development-course.iml" />
     </modules>
   </component>
