@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89fcff51-7411-4f43-b890-a2ffb79ad990" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_8_0_31.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/dataAccess/MyConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/dataAccess/StudentDA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/databaseSample.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/pojo/StudentPOJO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/presentation/StudentPresentation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/presentation/business/StudentBusiness.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-application-development-course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-application-development-course.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week8/TestJDBC.java" beforeDir="false" />
-    </list>
+    <list default="true" id="89fcff51-7411-4f43-b890-a2ffb79ad990" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -272,7 +260,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670664523984</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Add JDBC example ✅">
+      <created>1670681723024</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1670681723024</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Delete redundant file ✅">
+      <created>1670681757213</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1670681757213</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,6 +307,8 @@
     <MESSAGE value="Add homework for Week 7" />
     <MESSAGE value="Add List Dialog for Week 7" />
     <MESSAGE value="Add JDBC for Week8 ✅" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add JDBC for Week8 ✅" />
+    <MESSAGE value="Add JDBC example ✅" />
+    <MESSAGE value="Delete redundant file ✅" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete redundant file ✅" />
   </component>
 </project>
