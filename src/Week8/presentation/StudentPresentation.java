@@ -1,6 +1,6 @@
 package presentation;
 
-import presentation.business.StudentBusiness;
+import business.StudentBusiness;
 import pojo.StudentPOJO;
 import java.util.*;
 
@@ -9,7 +9,7 @@ public class StudentPresentation {
         StudentBusiness student = new StudentBusiness();
         List<StudentPOJO> students = student.getAll();
         for (StudentPOJO studentPOJO : students) {
-            System.out.println(studentPOJO);
+            System.out.println(studentPOJO.toString());
         }
     }
 }

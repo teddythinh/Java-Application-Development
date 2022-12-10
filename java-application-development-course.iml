@@ -12,6 +12,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src/Week6" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Week7" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Week8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Week8+" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

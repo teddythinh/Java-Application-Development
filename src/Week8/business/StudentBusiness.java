@@ -1,4 +1,4 @@
-package presentation.business;
+package business;
 
 import dataAccess.StudentDA;
 import pojo.StudentPOJO;

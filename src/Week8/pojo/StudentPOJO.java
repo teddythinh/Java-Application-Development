@@ -44,7 +44,6 @@ public class StudentPOJO {
     public void setGpa(double gpa) {
         this.gpa = gpa;
     }
-
     public String toString() {
         return "StudentPOJO{" +
                 "id=" + id +
