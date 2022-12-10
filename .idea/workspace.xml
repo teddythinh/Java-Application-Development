@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89fcff51-7411-4f43-b890-a2ffb79ad990" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week7/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/loginForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/TestJDBC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-application-development-course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-application-development-course.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week7/layout/ListDialog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week7/layout/ListDialog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week7/layout/ListDialogRunner.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
@@ -238,7 +234,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669466306329</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Add homework for Week 7">
+      <created>1670513206678</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1670513206678</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Add List Dialog for Week 7">
+      <created>1670513237390</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1670513237390</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -268,6 +278,8 @@
     <MESSAGE value="Add Homework for Week 5" />
     <MESSAGE value="Modify and refactor others" />
     <MESSAGE value="Add Week7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Week7" />
+    <MESSAGE value="Add homework for Week 7" />
+    <MESSAGE value="Add List Dialog for Week 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add List Dialog for Week 7" />
   </component>
 </project>
