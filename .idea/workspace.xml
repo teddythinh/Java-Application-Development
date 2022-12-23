@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89fcff51-7411-4f43-b890-a2ffb79ad990" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week9/ThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week9/ThreadDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week9/copyFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-application-development-course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-application-development-course.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +71,7 @@
       <recent name="C:\Users\Admin\IdeaProjects\java-application-development-course\src\Week8" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreadDemo">
+  <component name="RunManager" selected="Application.copyFile">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,13 +79,6 @@
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FormToLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FormToLogin" />
-      <module name="java-application-development-course" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -112,6 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="copyFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="copyFile" />
+      <module name="java-application-development-course" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="loginForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loginForm" />
       <module name="java-application-development-course" />
@@ -125,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.copyFile" />
         <item itemvalue="Application.ThreadDemo" />
         <item itemvalue="Application.StudentPresentation" />
         <item itemvalue="JAR Application.mysql-connector-j-8.0.31.jar" />
         <item itemvalue="Application.loginForm" />
-        <item itemvalue="Application.FormToLogin" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670685945039</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Add Week9 ✅">
+      <created>1671265434349</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1671265434349</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -349,6 +354,7 @@
     <MESSAGE value="Add Connector/J library ✅" />
     <MESSAGE value="Change package ✅" />
     <MESSAGE value="Change lib ✅" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change lib ✅" />
+    <MESSAGE value="Add Week9 ✅" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Week9 ✅" />
   </component>
 </project>
