@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89fcff51-7411-4f43-b890-a2ffb79ad990" name="Changes" comment="Add examples and homework for Week10 ✅">
-      <change afterPath="$PROJECT_DIR$/src/Week10/Client1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week10/Server1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week10/TCPClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week10/TCPServer.java" afterDir="false" />
+    <list default="true" id="89fcff51-7411-4f43-b890-a2ffb79ad990" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Week10/Client2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week10/Server2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-application-development-course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-application-development-course.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +36,9 @@
         <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2GrDnq8FIs4IoZwsNd7vxdIvdaX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -326,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671807086754</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Add examples and homework for Week10 ✅">
+      <created>1672307316069</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1672307316069</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
